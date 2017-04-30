@@ -1,0 +1,5 @@
+prompt: Please leave a message after the tone. Beeeeeeep.
+reprompt: Try again. Beeeeeep.
+confirmStatement: You said {{response}}. Is this right?
+correct: Processing to braille.
+wrong: I didn't understand what you said. Please repeat it again.
